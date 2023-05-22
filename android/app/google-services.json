@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "44736308164",
+    "project_id": "spam-49680",
+    "storage_bucket": "spam-49680.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44736308164:android:c90c42f0d5fafddeef3a91",
+        "android_client_info": {
+          "package_name": "com.ebenjs.maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44736308164-8cstiuucrr32v6hkjmg5almccjkovh7s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ebenjs.maps",
+            "certificate_hash": "7e837d9984c766b21d84b2b0af41e73b064402c2"
+          }
+        },
+        {
+          "client_id": "44736308164-207bch2ifeaftjtbidn331iv87aakrak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHFVYaF3oGs6iu2ugaylhJnWySS9YiQyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44736308164-207bch2ifeaftjtbidn331iv87aakrak.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "44736308164-ivm1ok0qldi5n9h5p2iu6r6n6lae3m3f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ebenjs.maps"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
